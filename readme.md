@@ -28,3 +28,9 @@ cd Modules/
 		http://www.u-blox.com/en/wireless-modules/gsm-gprs-modules/leon-gsm-module-family.html
 2. MAX7:  Ublox GPS module
 		http://www.u-blox.com/en/gps-modules/pvt-modules/max-7.html
+		
+cd Crystals and Oscillators
+
+1. TXC Oscillator/Crystal 8Z-12.000MAAJ-T
+		http://www.txccrystal.com/crystal.html
+		http://www.txccrystal.com/images/pdf/8z-accuracy.pdf
