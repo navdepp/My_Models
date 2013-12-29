@@ -1,7 +1,7 @@
 # My_Models
 
 These are the collection of the SketchUp models made by me to use with EagleCAD and EagleUp.
-Also available ate sketchup warehouse: https://sketchup.google.com/3dwarehouse/search?uq=0838239104253422400455142&scoring=m
+Also available at sketchup warehouse: https://sketchup.google.com/3dwarehouse/search?uq=0838239104253422400455142&scoring=m
 
 For further instruction and more models go to EagleUp official site/blog. 
 EagleUp: https://eagleup.wordpress.com/
